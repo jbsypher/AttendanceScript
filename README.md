@@ -8,3 +8,6 @@ Built in Python, Batch, HTML, and CSS, my product resulted in significant time s
 
  - Qualification into National TSA Software Development Competition
 
+Project Slideshow: (includes video on final slides)
+
+https://docs.google.com/presentation/d/1NxJwPs0W71vr25eE2Bn2vRf1bCAXD-ZKYqi87ySg9hg/edit?usp=sharing
